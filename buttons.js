@@ -20,3 +20,15 @@ function reset() {
     total1.innerText = parseInt(total1.innerText) - (parseInt(total1.innerText));
     total2.innerText = parseInt(total2.innerText) - (parseInt(total2.innerText));
 }
+
+
+/*
+
+Step 1:
+Complete
+
+Step 2:
+Complete
+
+From Kenn
+*/
